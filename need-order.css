@@ -1,0 +1,67 @@
+/*
+   Jenny Shand
+   3/4/18
+*/
+
+div
+{
+    color: Turquoise;
+    font-weight: bold;
+}
+
+h1
+{
+    color: DarkTurquoise;
+    font-size: 1.5em;
+    font-family: "Lucida Console", "Courier New", Monospace;
+    border: .4em inset grey;
+    margin-right: 1.4em;
+    position: relative;
+    left: .6em;
+    text-align: center;
+}
+
+legend
+{
+    font-style: italic;
+    color: black;
+}
+
+h3
+{
+    font-weight: bold;
+    color: DarkTurquoise;
+    position: relative;
+    left: 1em;
+}
+
+h2
+{
+    color: hsl(89, 43%, 51%);
+    position: relative;
+    left: .75em;
+}
+
+img[src="turtle.jpeg"]
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+body
+{
+    background-color: green;
+}
+
+form
+{
+    background-color: hsl(100, 12%, 85%);
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
